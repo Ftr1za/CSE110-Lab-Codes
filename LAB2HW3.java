@@ -1,6 +1,8 @@
+// Write a Java program that takes 3 float numbers as input from the user and prints the maximum and minimum number from the inputs.
+
 import java.util.Scanner;
 
-public class L2HW3 {
+public class LAB2HW3 {
   public static void main (String [] args) {
     Scanner sc = new Scanner(System.in);
     float num1 = sc.nextFloat();
