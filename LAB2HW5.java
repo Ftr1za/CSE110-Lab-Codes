@@ -1,6 +1,16 @@
+// Suppose you are hired by a supershop named Bastob. Now, your task is to create a Java program that will help the cashier calculate the change to be returned.
+// The program takes two inputs. The first input is an integer number which is the amount of money to be paid in taka and the second integer is the amount of money the customer gave to the cashier. 
+// Your program should print the following:
+// If the customer gave more money than the actual amount, print change the cashier should return in notes and coins.
+// If the customer gave less money than the amount to be paid, then print the amount the customer needs to pay. 
+// Consider the following denomination for notes and coins in taka:
+// Notes: 100, 50, 20, 10. 
+// Coins: 5, 2, 1.
+
+
 import java.util.Scanner;
 
-public class L2HW5 {
+public class LAB2HW5 {
   public static void main (String [] args) {
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter the amount the customer need to pay(Taka)");
