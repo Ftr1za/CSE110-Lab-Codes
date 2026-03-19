@@ -1,6 +1,8 @@
+//Write a program in Java that prints the individual digits of an integer number (user input) backward (From right to left). 
+
 import java.util.Scanner;
 
-public class L3HW4{
+public class LAB3HW4{
   public static void main(String [] args){
     Scanner sc = new Scanner(System.in);
     int num = sc.nextInt();
