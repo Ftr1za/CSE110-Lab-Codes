@@ -1,6 +1,10 @@
+// Write a Java program that will take an integer as input and - 
+// Find out if the number is a prime number or not.
+// Find out if the number is a perfect number or not.
+
 import java.util.Scanner;
 
-public class L3HW6{
+public class LAB3HW6{
   public static void main(String [] args){
     Scanner sc = new Scanner(System.in);
     int num = sc.nextInt();
