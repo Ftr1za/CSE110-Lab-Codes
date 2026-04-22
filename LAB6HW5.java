@@ -1,3 +1,12 @@
+// You are given a string that consists of one or more words separated by spaces. 
+// Your task is to determine and return the length of the last word in the string. 
+// A word is defined as a maximal sequence of consecutive non-space characters.
+
+// Note:
+// ● The string may contain leading spaces, trailing spaces, or multiple spaces between words.
+// ● The string is guaranteed to contain at least one word.
+// ● The string consists only of English letters and spaces.
+
 import java.util.Scanner; 
 public class LAB6HW5{ 
   public static void main(String [] args){ 
