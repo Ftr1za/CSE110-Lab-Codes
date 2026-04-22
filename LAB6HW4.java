@@ -1,3 +1,13 @@
+// The media team is preparing for the massive upcoming match between Real Madrid and
+// Bayern Munich. Fans from around the world have submitted short prediction messages through a web form. 
+// Each message mentions one or both teams, and your task is to analyze these predictions to help journalists prepare match statistics. Your program will process one fan message and determine:
+
+// ● Which team is mentioned more (Madrid or Bayern)
+// ● Whether the fan thinks the game will be close or one-sided based on specific keywords (Close and Destroy)
+// ● Whether the message contains positive or negative sentiment for the teams (Based on the keywords)
+// NOTE: You can assume there will be no characters other than the english alphabets A-Z, a-z, space, ! and .
+
+
 import java.util.Scanner; 
 public class LAB6HW4{ 
   public static void main(String [] args){ 
