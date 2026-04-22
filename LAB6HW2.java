@@ -1,3 +1,13 @@
+// Given a string s consisting of printable ASCII characters, reverse only the vowels in 
+// the string while keeping all other characters (consonants, spaces, punctuation, etc.)
+// in their original positions. The vowels are defined as 'a', 'e', 'i', 'o', 'u' (both
+// lowercase and uppercase). Return the modified string after reversing the vowels.
+
+// Note:
+// ● Vowels can appear multiple times and in any case.
+// ● The string may contain non-alphabetic characters, which should remain unchanged.
+// ● The string is guaranteed to have a length of at least 1.
+
 import java.util.Scanner;
 
 public class LAB6HW2{
